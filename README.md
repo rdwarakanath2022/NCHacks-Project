@@ -2,7 +2,7 @@
 
 ## Author: Rishabh Dwarakanath
 
-*Description: This program is a winter-themed slide puzzle. The completed picture has been provided as penguin.png to be used as a reference while you attempt to put the puzzle together.
+* Description: This program is a winter-themed slide puzzle. The completed picture has been provided as penguin.png to be used as a reference while you attempt to put the puzzle together.*
 
 ### Setup Instructions: 
 
