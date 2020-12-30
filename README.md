@@ -6,8 +6,8 @@ Description: This program is a winter-themed slide puzzle. The completed picture
 
 ### Setup Instructions: 
 
-Step 1: Download the picture to C:\Downloads\penguin.png
-Step 2: Download the winterJigsaw.exe file to C:\Downloads\
+Step 1: Download the picture to C:\Downloads\penguin.png \b
+Step 2: Download the winterJigsaw.exe file to C:\Downloads\ \b
 Step 3: Run winterJigsaw.exe
 
 ### Playing Instructions:
