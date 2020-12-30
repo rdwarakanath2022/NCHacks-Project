@@ -1,13 +1,13 @@
 # NCHacks-Project
 
-Author: Rishabh Dwarakanath
+## Author: Rishabh Dwarakanath
 
-Description: This program is a winter-themed slide puzzle. The completed picture has been provided as penguin.png to be used as a reference while you attempt to put the puzzle together.
+*Description: This program is a winter-themed slide puzzle. The completed picture has been provided as penguin.png to be used as a reference while you attempt to put the puzzle together.
 
 ### Setup Instructions: 
 
-Step 1: Download the picture to C:\Downloads\penguin.png \b
-Step 2: Download the winterJigsaw.exe file to C:\Downloads\ \b
+Step 1: Download the picture to C:\Downloads\penguin.png <br>
+Step 2: Download the winterJigsaw.exe file to C:\Downloads\ <br>
 Step 3: Run winterJigsaw.exe
 
 ### Playing Instructions:
