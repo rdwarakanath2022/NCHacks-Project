@@ -10,6 +10,8 @@ Step 1: Download the pictures to C:\Downloads\penguin.png and C:\Downloads\santa
 Step 2: Download the winterJigsaw.exe file to C:\Downloads\ <br>
 Step 3: Run winterJigsaw.exe
 
+Note: Please make sure you have the latest JDK installed.
+
 ### Playing Instructions:
 
 Step 1: It is recommended to have the pictures visible as you solve the puzzle for reference. Simply have the puzzle and matching picture side by side. <br>
